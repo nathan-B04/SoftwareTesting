@@ -1,0 +1,6 @@
+# In this lab, we are required to ask the user for a password length 8 digits or larger
+# After the user enters the length, the program will ask how many characters in the password are numbers
+# After numbers it will ask how many letters, than special characters
+
+# After the user enters all their information, the system will give the user's password output
+# Then, ask if they would like to restart the program
